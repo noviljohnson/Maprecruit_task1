@@ -1,0 +1,94 @@
+skills,actuaries,bioinformatics technicians,biostatisticians,blockchain engineers,business intelligence analysts,clinical data managers,computer and information research scientists,computer network architects,computer network support specialists,computer programmers,computer systems analysts,computer systems engineers/architects,computer user support specialists,data scientists,data warehousing specialists,database administrators,database architects,digital forensics analysts,document management specialists,geographic information systems technologists and technicians,health informatics specialists,information security analysts,information security engineers,information technology project managers,mathematicians,network and computer systems administrators,operations research analysts,penetration testers,software developers,software quality assurance analysts and testers,statisticians,telecommunications engineering specialists,video game designers,web administrators,web and digital interface designers,web developers
+analytical or scientific software,1,1,1,,1,1,1,1,0,1,1,1,1,1,1,1,1,,1,1,1,1,,1,1,1,1,,1,1,1,0,1,1,1,1
+business intelligence and data analysis software,1,0,0,,1,0,1,1,0,1,1,1,1,1,1,1,1,,0,1,1,1,,1,1,1,1,,1,1,1,0,0,1,1,1
+compliance software,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0
+data base user interface and query software,1,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,,1,1,1,1,,1,1,1,1,1,1,1,1
+development environment software,1,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,,1,1,1,1,,1,1,1,1,1,1,1,1
+electronic mail software,1,1,0,,1,0,0,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,,1,1,1,1,,1,1,0,1,1,1,1,1
+financial analysis software,1,0,0,,1,0,0,1,0,1,1,1,1,1,1,1,0,,0,0,0,1,,1,0,1,1,,1,1,0,0,0,0,1,1
+graphics or photo imaging software,1,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,,1,1,1,1,,1,1,0,1,1,1,1,1
+object or component oriented development software,1,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,,1,1,1,1,,1,1,1,1,1,1,1,1
+object oriented data base management software,1,0,0,,1,0,1,1,0,1,1,1,1,1,1,1,1,,0,1,0,1,,1,0,1,0,,1,1,1,0,0,1,1,1
+office suite software,1,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1,,0,1,1,1,,1,1,1,1,,1,1,1,1,1,1,1,1
+presentation software,1,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,,1,1,1,1,,1,1,1,1,1,1,1,1
+project management software,1,1,0,,1,1,1,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,,1,0,1,1,,1,1,0,1,1,1,1,1
+spreadsheet software,1,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,,1,1,1,1,,1,1,1,1,1,1,1,1
+word processing software,1,1,1,,1,1,0,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,,1,1,0,1,,1,1,1,1,1,1,1,1
+access software,0,1,0,,1,1,0,1,1,1,1,1,1,1,0,1,1,,0,0,0,1,,1,0,1,1,,1,1,0,1,0,1,0,0
+customer relationship management crm software,0,1,0,,1,0,0,0,1,0,1,1,1,1,1,1,1,,0,0,1,1,,1,1,1,1,,1,1,0,0,0,0,1,1
+data base management system software,0,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1,,1,1,0,1,,1,1,1,1,,1,1,1,0,1,0,1,1
+enterprise application integration software,0,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,1,,1,1,0,1,,1,1,1,1,,1,1,1,0,1,1,1,1
+enterprise resource planning erp software,0,1,1,,1,0,1,1,1,1,1,1,1,1,1,1,1,,1,1,0,1,,1,0,1,1,,1,1,1,0,0,1,1,1
+file versioning software,0,1,1,,1,0,1,1,0,1,1,1,1,1,1,1,1,,1,0,0,1,,1,0,1,0,,1,1,0,0,0,0,1,1
+internet browser software,0,1,0,,0,0,0,1,0,0,0,1,1,0,0,0,0,,0,1,1,0,,0,1,0,0,,0,1,0,1,0,1,0,0
+internet protocol ip multimedia subsystem software,0,1,0,,0,0,0,1,1,0,1,1,1,0,0,0,0,,0,0,0,1,,1,0,1,0,,1,1,0,1,0,0,0,0
+map creation software,0,1,0,,1,0,1,1,0,1,1,1,1,1,1,1,1,,0,1,1,1,,1,0,1,1,,0,1,0,0,0,0,0,1
+operating system software,0,1,1,,1,0,1,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,,1,1,1,1,,1,1,1,1,1,1,1,1
+web platform development software,0,1,1,,1,0,1,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,,1,1,1,0,,1,1,0,0,1,1,1,1
+data mining software,0,0,1,,1,0,1,0,0,1,1,1,0,1,1,1,1,,1,0,0,0,,1,0,0,0,,1,1,1,0,0,0,1,1
+medical software,0,0,1,,1,1,0,0,0,1,1,1,1,1,0,1,1,,0,0,1,1,,1,0,1,0,,0,1,0,0,0,0,0,1
+accounting software,0,0,0,,1,0,0,0,0,1,1,0,1,1,0,1,0,,0,0,0,0,,1,0,0,1,,0,1,0,0,0,0,0,0
+application server software,0,0,0,,1,0,1,1,0,1,1,1,1,1,1,1,1,,1,1,0,1,,1,0,1,1,,1,1,0,0,0,1,1,1
+backup or archival software,0,0,0,,1,0,0,1,1,1,1,1,1,1,1,1,1,,0,0,0,1,,1,0,1,1,,1,1,0,1,0,0,0,0
+communications server software,0,0,0,,1,0,1,1,1,1,1,1,1,1,1,1,1,,0,0,0,1,,1,0,1,1,,1,1,0,1,0,0,1,1
+computer aided design cad software,0,0,0,,1,0,1,1,1,1,1,1,1,1,0,1,1,,1,1,0,0,,1,0,1,1,,0,1,0,1,0,0,0,0
+content workflow software,0,0,0,,1,0,0,1,0,1,1,1,1,1,1,1,1,,1,0,0,1,,0,0,1,0,,1,1,0,0,0,1,1,1
+data base reporting software,0,0,0,,1,1,0,1,0,1,1,1,1,1,1,1,1,,1,1,1,1,,1,0,1,1,,1,1,0,0,0,0,1,1
+desktop communications software,0,0,0,,1,0,0,1,1,0,1,1,1,1,0,1,1,,1,0,0,1,,1,0,1,1,,1,1,0,0,0,0,1,1
+desktop publishing software,0,0,0,,1,0,0,0,0,1,1,1,1,1,1,1,1,,1,0,0,0,,1,1,1,0,,1,1,0,0,0,1,1,1
+document management software,0,0,0,,1,0,0,0,1,1,1,1,1,1,1,0,1,,1,1,0,0,,1,0,1,0,,1,1,0,0,0,1,1,1
+enterprise system management software,0,0,0,,1,0,1,1,1,1,1,1,1,1,1,1,1,,0,0,0,1,,1,0,1,1,,1,1,0,0,0,0,1,1
+graphical user interface development software,0,0,0,,1,0,1,0,0,1,1,1,1,1,0,1,0,,0,0,0,0,,1,0,1,0,,1,1,0,0,1,0,1,1
+human resources software,0,0,0,,1,0,0,1,0,1,1,1,1,1,1,1,0,,0,0,0,1,,1,0,1,1,,0,1,0,0,0,0,0,0
+information retrieval or search software,0,0,0,,1,0,0,0,0,0,1,1,1,1,1,1,1,,0,0,0,1,,1,0,0,1,,1,1,0,0,0,0,0,0
+metadata management software,0,0,0,,1,0,1,1,0,1,1,1,1,1,1,1,1,,0,0,0,0,,1,0,1,0,,1,1,0,0,1,0,1,1
+network monitoring software,0,0,0,,1,0,0,1,1,1,1,1,1,1,1,1,1,,0,0,0,1,,1,0,1,1,,1,1,0,1,0,0,1,1
+network security and virtual private network vpn equipment software,0,0,0,,1,0,0,1,1,1,0,1,0,1,0,1,1,,0,0,0,1,,0,0,1,0,,1,1,0,0,0,1,0,0
+portal server software,0,0,0,,1,0,1,1,0,1,1,1,1,1,1,1,1,,0,0,0,1,,1,0,1,0,,1,1,0,0,0,1,1,1
+program testing software,0,0,0,,1,0,0,1,1,1,1,1,1,1,0,1,1,,0,0,0,1,,1,1,1,0,,1,1,0,0,0,0,1,1
+requirements analysis and system architecture software,0,0,0,,1,0,1,1,0,1,1,1,1,1,1,1,1,,1,0,0,1,,1,0,1,0,,1,1,0,1,0,0,1,1
+sales and marketing software,0,0,0,,1,0,1,0,0,0,1,1,1,1,0,1,0,,1,0,0,0,,1,0,1,1,,0,0,0,0,0,1,1,1
+transaction security and virus protection software,0,0,0,,1,0,0,1,1,1,1,1,1,1,1,1,1,,0,0,0,1,,1,0,1,1,,1,1,0,1,0,1,1,1
+transaction server software,0,0,0,,1,0,0,1,1,1,1,1,1,1,1,1,1,,0,0,0,1,,1,1,1,0,,1,1,0,0,0,1,1,1
+video creation and editing software,0,0,0,,1,0,1,1,0,0,1,1,1,1,0,0,0,,1,1,0,0,,1,0,0,0,,1,1,0,0,1,1,1,1
+web page creation and editing software,0,0,0,,1,0,1,0,0,1,1,1,1,1,0,1,1,,1,1,0,1,,1,0,1,0,,1,1,0,1,0,1,1,1
+categorization or classification software,0,0,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0
+clustering software,0,0,0,,0,0,1,0,0,0,0,0,0,0,1,1,1,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0
+compiler and decompiler software,0,0,0,,0,0,1,0,0,1,1,0,0,0,0,0,0,,0,0,0,0,,0,0,1,0,,0,0,0,0,0,0,0,0
+configuration management software,0,0,0,,0,0,1,1,1,1,1,1,1,0,1,1,1,,0,0,0,1,,1,0,1,0,,1,1,0,0,1,0,1,1
+administration software,0,0,0,,0,0,0,1,1,0,1,0,1,0,0,1,1,,0,0,0,1,,0,0,1,0,,1,1,0,1,0,0,0,0
+authentication server software,0,0,0,,0,0,0,1,0,0,0,0,1,0,0,0,0,,0,0,0,1,,0,0,1,0,,0,0,0,0,0,0,0,0
+bridge software,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0
+computer based training software,0,0,0,,0,0,0,1,0,0,0,1,1,0,0,1,0,,0,0,1,0,,1,0,1,0,,1,1,0,0,0,0,1,1
+expert system software,0,0,0,,0,0,0,1,0,1,1,1,1,0,0,1,1,,0,0,0,1,,1,0,1,0,,1,1,0,0,0,0,1,1
+helpdesk or call center software,0,0,0,,0,0,0,1,1,0,1,0,1,0,0,0,0,,0,0,0,0,,0,0,1,0,,0,0,0,1,0,0,0,0
+industrial control software,0,0,0,,0,0,0,1,0,1,1,1,1,0,0,1,0,,0,0,0,1,,1,0,1,0,,0,1,0,1,0,0,0,0
+instant messaging software,0,0,0,,0,0,0,1,0,0,1,1,1,0,0,0,0,,0,0,0,1,,0,0,0,0,,1,1,0,0,0,0,1,1
+internet directory services software,0,0,0,,0,0,0,1,1,0,1,1,1,0,0,0,0,,0,0,0,1,,0,0,1,0,,0,0,0,0,0,1,0,0
+lan software,0,0,0,,0,0,0,1,0,0,0,1,0,0,0,0,0,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0
+network operating system enhancement software,0,0,0,,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,,0,0,1,0,,0,0,0,0,0,0,0,0
+network security or virtual private network vpn management software,0,0,0,,0,0,0,1,1,0,1,1,1,0,0,1,1,,0,0,0,1,,1,1,1,0,,0,0,0,1,0,1,0,0
+optical network management software,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,,0,0,1,0,,0,0,0,0,0,0,0,0
+pattern design software,0,0,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,,0,0,0,0,,1,0,1,0,,0,0,0,0,0,0,0,0
+platform interconnectivity software,0,0,0,,0,0,0,1,1,1,1,1,1,0,0,1,1,,0,0,0,1,,0,0,1,0,,1,1,0,0,0,0,1,1
+storage networking software,0,0,0,,0,0,0,1,1,1,1,1,1,0,1,1,1,,0,0,0,1,,0,0,1,0,,1,1,0,0,0,1,1,1
+switch or router software,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,1,0,0
+time accounting software,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0
+video conferencing software,0,0,0,,0,0,0,1,0,0,1,1,1,0,0,1,1,,1,0,0,0,,1,0,1,0,,1,1,0,0,0,0,1,1
+wan switching software and firmware,0,0,0,,0,0,0,1,0,0,0,1,0,0,0,0,0,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0
+filesystem software,0,0,0,,0,0,0,0,1,0,0,0,1,0,0,0,0,,1,0,0,1,,0,0,0,0,,1,1,0,0,0,0,0,0
+data conversion software,0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,0,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0
+network conferencing software,0,0,0,,0,0,0,0,0,0,1,1,1,0,0,1,1,,0,0,0,0,,0,0,0,0,,1,1,0,0,0,1,0,0
+calendar and scheduling software,0,0,0,,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0,1,0,,1,0,0,0,,0,0,0,0,0,0,0,0
+license management software,0,0,0,,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0,0,1,,0,0,0,0,,0,0,0,0,0,0,0,0
+multi-media educational software,0,0,0,,0,0,0,0,0,0,0,0,1,0,0,1,1,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,1,0
+network operation system software,0,0,0,,0,0,0,0,0,0,0,0,1,0,0,0,0,,0,0,0,0,,0,0,0,0,,1,1,0,0,0,0,0,0
+manufacturing execution system mes software,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,1,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0
+storage media loading software,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,1,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0
+data compression software,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0
+optical character reader ocr or scanning software,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0
+mobile location based services software,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,0,0,,1,0,0,0,,0,0,0,0,0,0,0,0
+point of sale pos software,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,1,,0,0,0,0,,0,0,0,0,0,0,0,0
+gateway software,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,,0,0,1,0,,0,0,0,0,0,0,0,0
+device drivers or system software,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,,0,0,0,0,,1,1,0,0,1,0,0,0
+music or sound editing software,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,1,0,0
